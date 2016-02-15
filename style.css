@@ -1,8 +1,11 @@
-html {
+html,body {
   height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
 body {
-  background: url('image/ax.jpg') no-repeat;
+  background: url('image/ax.jpg') no-repeat ;
 background-size: cover;
 display: table;
 width: 100%;
@@ -20,7 +23,6 @@ footer {
 display: table-row;
   width: 100%;
   height: 150px;
-
   opacity: 0.9;
    clear: both;
 
