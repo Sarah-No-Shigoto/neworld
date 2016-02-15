@@ -1,0 +1,27 @@
+html {
+  height: 100%;
+}
+body {
+  background-image: url('image/ax.jpg');
+display: table;
+width: 100%;
+min-height: 100%;
+background-color: gray;
+
+}
+
+
+
+
+
+
+/* FOOTER */
+footer {
+display: table-row;
+  width: 100%;
+  height: 150px;
+  background-image: url(img/dark_wood.png);
+  opacity: 0.9;
+   clear: both;
+
+}
