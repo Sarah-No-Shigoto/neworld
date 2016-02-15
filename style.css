@@ -2,11 +2,10 @@ html {
   height: 100%;
 }
 body {
-  background-image: url('image/ax.jpg');
+  background-image: url('image/ax.jpg')no-repeat;
 display: table;
 width: 100%;
 min-height: 100%;
-background-color: gray;
 
 }
 
